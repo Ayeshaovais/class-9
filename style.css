@@ -1,0 +1,12 @@
+#list li{
+
+
+list-style-image: url(https://icon-library.com/images/bullet-list-icon/bullet-list-icon-2.jpg);
+margin-left: 300px;
+
+padding: 10px;
+}
+ol li{
+    list-style-type: circle;
+    list-style-position: outside;
+}
